@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Coles Rapid Slot Checker",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Polls Coles checkout for Rapid delivery slots and notifies when one opens.",
   "browser_specific_settings": {
     "gecko": {

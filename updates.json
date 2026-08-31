@@ -5,6 +5,10 @@
         {
           "version": "0.2.0",
           "update_link": "https://cmadds.github.io/coles-rapid-checker/coles_rapid_checker-0.2.0.xpi"
+        },
+        {
+          "version": "0.3.0",
+          "update_link": "https://cmadds.github.io/coles-rapid-checker/coles_rapid_checker-0.3.0.xpi"
         }
       ]
     }
